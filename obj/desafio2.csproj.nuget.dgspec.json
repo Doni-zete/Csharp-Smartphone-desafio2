@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\FATEC\\CURSOS\\GITHUB\\DIO-PROJETOS-C##\\desafio2\\teste-api-branchs\\desafio2.csproj": {}
+    "E:\\FATEC\\CURSOS\\GITHUB\\DIO-PROJETOS-C##\\desafio2\\desafio2\\desafio2.csproj": {}
   },
   "projects": {
-    "E:\\FATEC\\CURSOS\\GITHUB\\DIO-PROJETOS-C##\\desafio2\\teste-api-branchs\\desafio2.csproj": {
+    "E:\\FATEC\\CURSOS\\GITHUB\\DIO-PROJETOS-C##\\desafio2\\desafio2\\desafio2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\FATEC\\CURSOS\\GITHUB\\DIO-PROJETOS-C##\\desafio2\\teste-api-branchs\\desafio2.csproj",
+        "projectUniqueName": "E:\\FATEC\\CURSOS\\GITHUB\\DIO-PROJETOS-C##\\desafio2\\desafio2\\desafio2.csproj",
         "projectName": "desafio2",
-        "projectPath": "E:\\FATEC\\CURSOS\\GITHUB\\DIO-PROJETOS-C##\\desafio2\\teste-api-branchs\\desafio2.csproj",
+        "projectPath": "E:\\FATEC\\CURSOS\\GITHUB\\DIO-PROJETOS-C##\\desafio2\\desafio2\\desafio2.csproj",
         "packagesPath": "C:\\Users\\Doni\\.nuget\\packages\\",
-        "outputPath": "E:\\FATEC\\CURSOS\\GITHUB\\DIO-PROJETOS-C##\\desafio2\\teste-api-branchs\\obj\\",
+        "outputPath": "E:\\FATEC\\CURSOS\\GITHUB\\DIO-PROJETOS-C##\\desafio2\\desafio2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Doni\\AppData\\Roaming\\NuGet\\NuGet.Config"

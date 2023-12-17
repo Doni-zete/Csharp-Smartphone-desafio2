@@ -1,0 +1,15 @@
+E:\FATEC\CURSOS\GITHUB\DIO-PROJETOS-C##\desafio2\desafio2\bin\Debug\net8.0\desafio2.exe
+E:\FATEC\CURSOS\GITHUB\DIO-PROJETOS-C##\desafio2\desafio2\bin\Debug\net8.0\desafio2.deps.json
+E:\FATEC\CURSOS\GITHUB\DIO-PROJETOS-C##\desafio2\desafio2\bin\Debug\net8.0\desafio2.runtimeconfig.json
+E:\FATEC\CURSOS\GITHUB\DIO-PROJETOS-C##\desafio2\desafio2\bin\Debug\net8.0\desafio2.dll
+E:\FATEC\CURSOS\GITHUB\DIO-PROJETOS-C##\desafio2\desafio2\bin\Debug\net8.0\desafio2.pdb
+E:\FATEC\CURSOS\GITHUB\DIO-PROJETOS-C##\desafio2\desafio2\obj\Debug\net8.0\desafio2.GeneratedMSBuildEditorConfig.editorconfig
+E:\FATEC\CURSOS\GITHUB\DIO-PROJETOS-C##\desafio2\desafio2\obj\Debug\net8.0\desafio2.AssemblyInfoInputs.cache
+E:\FATEC\CURSOS\GITHUB\DIO-PROJETOS-C##\desafio2\desafio2\obj\Debug\net8.0\desafio2.AssemblyInfo.cs
+E:\FATEC\CURSOS\GITHUB\DIO-PROJETOS-C##\desafio2\desafio2\obj\Debug\net8.0\desafio2.csproj.CoreCompileInputs.cache
+E:\FATEC\CURSOS\GITHUB\DIO-PROJETOS-C##\desafio2\desafio2\obj\Debug\net8.0\desafio2.sourcelink.json
+E:\FATEC\CURSOS\GITHUB\DIO-PROJETOS-C##\desafio2\desafio2\obj\Debug\net8.0\desafio2.dll
+E:\FATEC\CURSOS\GITHUB\DIO-PROJETOS-C##\desafio2\desafio2\obj\Debug\net8.0\refint\desafio2.dll
+E:\FATEC\CURSOS\GITHUB\DIO-PROJETOS-C##\desafio2\desafio2\obj\Debug\net8.0\desafio2.pdb
+E:\FATEC\CURSOS\GITHUB\DIO-PROJETOS-C##\desafio2\desafio2\obj\Debug\net8.0\desafio2.genruntimeconfig.cache
+E:\FATEC\CURSOS\GITHUB\DIO-PROJETOS-C##\desafio2\desafio2\obj\Debug\net8.0\ref\desafio2.dll
